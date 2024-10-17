@@ -50,13 +50,6 @@ function draw() {
     
   }
     
-
-  
-    
-
-
-      
-
   
   for(let i = 0; i<points.length;i++){
     point(points[i][0],points[i][1]);
